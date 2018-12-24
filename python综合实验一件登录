@@ -13,10 +13,7 @@ post_header={
     'Referer':'http://a.nuist.edu.cn/index',
     'Content-Length': '66',
 
-    'Cookie':'_gscu_1147341576=059821653286gq10; sunriseUsername=123441534;\
-    sunriseDomain=NUIST;sunriseRememberPassword=true; sunrisePassword=123456;\
-    PHPSESSID=hb0o9bkct2f6ge164oj3vj0me5;think_language=zh-CN',
-    'Connection':'keep-alive',
+
 }
 
 post_data={'domain':'NUIST',
